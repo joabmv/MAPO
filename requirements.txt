@@ -1,0 +1,20 @@
+langchain >=0.3,<0.4
+langchain-community >=0.3,<0.4
+langchain-text-splitters >=0.3,<0.4
+langchain-core >=0.3,<0.4
+langchain-experimental >=0.3,<0.4
+langchain-google-genai ==2.1.7
+langchain-ollama ==0.3.4
+langchain-huggingface
+langchain_groq
+langgraph ==0.5.2
+langgraph-supervisor ==0.0.27
+langgraph-checkpoint-sqlite ==2.0.10
+matplotlib
+seaborn ==0.13.2
+pandas ==2.3.1
+yfinance ==0.2.65
+scipy ==1.16.0
+Flask ==3.1.1
+PennyLane ==0.41.1
+tqdm
