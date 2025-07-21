@@ -5,13 +5,6 @@ from AGENTS.agents import supervisor
 
 supervisor = supervisor.compile()
 
-# image_data = supervisor.get_graph().draw_mermaid_png()
-# # Salvar a imagem em um arquivo
-# file_path = "diagrama_mermaid.png"
-# with open(file_path, "wb") as f:
-#     f.write(image_data)
-
-
 def pretty_print_message(message, indent=False):
     pretty_message = message.pretty_repr(html=True)
     if not indent:
