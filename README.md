@@ -87,7 +87,7 @@ Once the configuration is complete, you can run the main application script.
 
 ## User Input:
   ```
-  Optimize this portfolio: AAPL, MSFT, GOOGL, NVDA. Compare the results of the Risk Parity and the VQE optmizations.
+  Compare the Risk Parity and VQE results for this portifolio AAPL, MSFT, GOOGL, NVDA.
   ```
 
 ## Expected output:
