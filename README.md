@@ -96,3 +96,8 @@ Once the configuration is complete, you can run the main application script.
   <img width="700" height="800" alt="CacheLib" src=https://i.imgur.com/P2uOUGz.jpeg>
 </p>
 
+# 🖊️ Author
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/87044734?v=4" width=115><br><sub>Joab Varela</sub>](https://github.com/joabmv) |
+| :---: |
+
+
