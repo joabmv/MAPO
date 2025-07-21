@@ -16,7 +16,7 @@ Follow these steps to get your local copy up and running.
 
 1. Clone the repository:
   ```
-  git clone https://github.com/your-username/MAPO.git
+  git clone https://github.com/joabmv/MAPO.git
   cd MAPO
   ```
 2. Install dependencies:    
